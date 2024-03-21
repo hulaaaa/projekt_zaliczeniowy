@@ -1,1 +1,2 @@
-print("Hello World!");
+# Dodanie imienia i nazwiska
+print("Dmytro Hula");
